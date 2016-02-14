@@ -1,5 +1,4 @@
-# Bootstrap Image Carousel Codealong
+# Exceptional Realty Website (Bootstraped version)
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/IFS0kPBu7CQ?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
-
-<p><a href="https://www.youtube.com/watch?v=IFS0kPBu7CQ">Bootstrap Image Carousel Codealong</a></p>.
+This is an example website using the Twitter Bootstrap v2 framework.
+For more information on using Bootstrap: (GetBootstrap.com)[http://getbootstrap.com]
